@@ -1,0 +1,20 @@
+{
+  "name": "workshop-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noda-acall/workshop-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noda-acall/workshop-typescript/issues"
+  },
+  "homepage": "https://github.com/noda-acall/workshop-typescript#readme"
+}
